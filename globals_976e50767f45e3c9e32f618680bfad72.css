@@ -14409,7 +14409,7 @@ small {
   border: 0;
   outline: none;
   text-decoration: none;
-  background-image: url(../blocks/supernova/images/menu3x3__min_.svg);
+  background-image: url(./menu3x3__min_.svg);
 }
 .supernova-icon-services-dynamic {
   display: inline-block;
@@ -20971,7 +20971,7 @@ body:not(.xs-friendly) .vacancy-contacts__phone-link {
   height: 100%;
 }
 
-.vacancy-company span {
+.address-title {
   font-size: 13.4px;
 }
 /*# sourceMappingURL=__globals_976e50767f45e3c9e32f618680bfad72.css.map */
